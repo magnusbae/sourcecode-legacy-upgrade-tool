@@ -1,0 +1,27 @@
+{
+  "name": "sourcecode-legacy-upgrade-tool",
+  "version": "1.0.0",
+  "description": "Upgrades your legacy code to a modern build pattern using require or ES6 imports",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node scripts/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magnusbae/sourcecode-legacy-upgrade-tool.git"
+  },
+  "keywords": [
+    "angular",
+    "upgrade",
+    "webpack"
+  ],
+  "author": "Magnus Bae",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/magnusbae/sourcecode-legacy-upgrade-tool/issues"
+  },
+  "homepage": "https://github.com/magnusbae/sourcecode-legacy-upgrade-tool#readme"
+}
