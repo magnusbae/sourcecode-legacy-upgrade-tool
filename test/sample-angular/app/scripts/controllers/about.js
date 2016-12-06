@@ -9,9 +9,5 @@
  */
 angular.module('sampleAngularApp')
   .controller('AboutCtrl', function () {
-    this.awesomeThings = [
-      'HTML5 Boilerplate',
-      'AngularJS',
-      'Karma'
-    ];
+    console.log('about controller loaded');
   });
